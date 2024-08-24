@@ -37,7 +37,7 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
-
+        // задачи 6 - 8
         var firstMass = 78.2;
         System.out.println(firstMass);
         var secondMass = 82.7;
